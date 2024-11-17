@@ -1,0 +1,85 @@
+[33mcommit 9f7d6b28889e0b78bf67ea498a875a92f7047c92[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Hund <dhund.data@gmail.com>
+Date:   Sun Jun 9 23:07:23 2024 +0100
+
+    H: Update classics.csv
+
+[33mcommit 53f1f0ed81927d66be59cdeae0db2e05a1c6313f[m
+Author: Hund <dhund.data@gmail.com>
+Date:   Sun Jun 9 23:07:23 2024 +0100
+
+    J: Update classics.csv
+
+[33mcommit e9fcf3a44f8dbf9a750d67197cb5a4cd174b69fa[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sun Jun 9 17:44:18 2024 +0100
+
+    G: added curious to titles
+
+[33mcommit a012fb23663e5b443f5c0aba5acb73f318746339[m
+Merge: ae595f6 76e3952
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Mon Jun 3 15:08:00 2024 +0100
+
+    FMerge branch 'add_classics'
+    F: Merge branch 'add_classics'
+
+[33mcommit ae595f69d773a8ebfdcb120928582b89feca138d[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Mon Jun 3 15:03:12 2024 +0100
+
+    E: filled contents.md
+
+[33mcommit 76e395283d7fec544a176e58aa2bae2b86a0af02[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sun Jun 2 10:18:22 2024 +0100
+
+    D: add classics.csv
+
+[33mcommit 792d52fbb5e019ec2a32a3ce7f71e5b597b7c542[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 18:43:30 2024 +0100
+
+    C: final fix of titles and quotes.md
+
+[33mcommit 25f43eb7520c84de3e1e5b6ae335283107f5d136[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 18:42:43 2024 +0100
+
+    C: semantics.md lol
+
+[33mcommit c3e8511cd3e8df5dc6c814bdfd014dccae547ac9[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 18:41:35 2024 +0100
+
+    C Final: fix titles.md and added quotes.md
+
+[33mcommit eaef9ee9a3c9090c1942617aee1229ac1dc43e15[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 18:41:07 2024 +0100
+
+    C2: fix titles.md and added quotes.md
+
+[33mcommit f34cf9ef968739ac747b521bf9f204f3c4df99b7[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 18:36:26 2024 +0100
+
+    B2: fix titles.md
+
+[33mcommit d959c51af5619f23fc2d56f558e77bfae529f369[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 18:31:12 2024 +0100
+
+    C: add quotes
+
+[33mcommit 5f448397529764c3b937a99627c9ffbd88749614[m
+Author: hundteezy <dhund.data@gmail.com>
+Date:   Sat Jun 1 00:29:52 2024 +0100
+
+    B: added titles.md
+
+[33mcommit 80cf4c8d4a6622bee6e1fdf36a96c479f16fafb3[m
+Author: github_username_here <dhund.data@gmail.com>
+Date:   Fri May 31 21:16:02 2024 +0100
+
+    A: add contents.md
